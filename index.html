@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Hostel 3 IITB</title>
+    <script src="./splide4/js/splide.min.js"></script>
+    <link rel="stylesheet" href="./splide4/css/splide.min.css">
+  </head>
+  <body bgcolor="#444444">
+    <section align="center" id="image-carousel" class="splide" aria-label="Beautiful Images">
+      <div class="splide__track">
+	<ul class="splide__list">
+		<li class="splide__slide">
+      <img src="./img/img4.jpeg">
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img8.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img9.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img5.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img2.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img3.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img1.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img10.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img6.jpeg" >
+      </li>
+      <li class="splide__slide">
+      <img src="./img/img7.jpeg" >
+      </li>
+      
+	</ul>
+      </div>
+    </section>
+    <script type="text/javascript">
+      /*new Splide( '#image-carousel' ).mount();*/
+      var splide = new Splide( '.splide', {
+          type  : 'fade',
+          rewind: true,
+          autoplay: true,
+      } );
+
+      splide.mount();
+    </script>
+  </body>
+</html>

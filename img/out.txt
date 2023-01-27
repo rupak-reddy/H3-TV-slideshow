@@ -1,0 +1,36 @@
+<li class="splide__slide">
+<img src="./img/img4.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img8.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/out.txt" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/.DS_Store" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img9.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img5.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img2.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img3.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img1.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img10.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img6.jpeg" width="70%">
+</li>
+<li class="splide__slide">
+<img src="./img/img7.jpeg" width="70%">
+</li>
