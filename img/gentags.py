@@ -7,8 +7,9 @@ def main():
             continue
 
         print(f"""<li class="splide__slide">
-<img src="./img/{e}" width="70%">
+<img src="./img/{e}">
 </li>""")
 
 if __name__ == "__main__":
     main()
+#width="70%"

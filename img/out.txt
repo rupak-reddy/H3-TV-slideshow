@@ -1,72 +1,72 @@
 <li class="splide__slide">
-<img src="./img/p7.jpeg" width="70%">
+<img src="./img/p7.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p11.jpeg" width="70%">
+<img src="./img/p11.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/out.txt" width="70%">
+<img src="./img/out.txt">
 </li>
 <li class="splide__slide">
-<img src="./img/.DS_Store" width="70%">
+<img src="./img/.DS_Store">
 </li>
 <li class="splide__slide">
-<img src="./img/p10.jpeg" width="70%">
+<img src="./img/p10.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p21.jpeg" width="70%">
+<img src="./img/p21.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p1.jpeg" width="70%">
+<img src="./img/p1.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p16.jpeg" width="70%">
+<img src="./img/p16.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p20.jpeg" width="70%">
+<img src="./img/p20.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p19.jpeg" width="70%">
+<img src="./img/p19.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p23.jpeg" width="70%">
+<img src="./img/p23.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p15.jpeg" width="70%">
+<img src="./img/p15.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p3.jpeg" width="70%">
+<img src="./img/p3.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p2.jpeg" width="70%">
+<img src="./img/p2.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p14.jpeg" width="70%">
+<img src="./img/p14.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p22.jpeg" width="70%">
+<img src="./img/p22.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p13.jpeg" width="70%">
+<img src="./img/p13.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p5.jpeg" width="70%">
+<img src="./img/p5.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p9.jpeg" width="70%">
+<img src="./img/p9.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p25.jpeg" width="70%">
+<img src="./img/p25.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p24.jpeg" width="70%">
+<img src="./img/p24.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p8.jpeg" width="70%">
+<img src="./img/p8.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p4.jpeg" width="70%">
+<img src="./img/p4.jpeg">
 </li>
 <li class="splide__slide">
-<img src="./img/p12.jpeg" width="70%">
+<img src="./img/p12.jpeg">
 </li>
